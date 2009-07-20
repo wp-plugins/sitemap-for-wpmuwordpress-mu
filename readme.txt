@@ -6,11 +6,10 @@ Requires at least: 2.8.1
 Tested up to: 2.8.1
 Stable tag: 1.0
 
-Automatically generate standard XML sitemap for wordpress MU blogs (works for both sub-domain and sub-directory WPMU blogs) and add sitemap into current robots.txt. 
 
 == Description ==
 
-The plugin work like XML feed. It's no file generated. It's automatic generate when need. It's also add sitemap url into current robots.txt that allow search engine crawling. No option required just install and live.
+Automatically generate standard XML sitemap for wordpress MU blogs (works for both sub-domain and sub-directory WPMU blogs) and add sitemap into current robots.txt. 
 
 
 == Installation ==
