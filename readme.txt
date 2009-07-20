@@ -19,13 +19,13 @@ Automatically generate standard XML sitemap for wordpress MU blogs (works for bo
 2. Upload `sitemap-for-wpmu.php` to the `/wp-content/mu-plugins/` directory
 3. Upload `sitemap4wpmu.xsl` to the `/wp-content/mu-plugins/` directory
 4. Upload `feed-sitemap-for-wpmu.php` to the `/wp-includes/` directory 		
-5. check your sitemap url like http://yourblogurl.com/sitemap.xml
+5. check your sitemap url like http://example.com/sitemap.xml
 
 == Frequently Asked Questions ==
 
 = Can I change the sitemap name/URL? =
 
-No. The sitemap was defined as sitemap.xml. Your sitemap url should be http://yourblogurl.com/sitemap.xml
+No. The sitemap was defined as sitemap.xml. Your sitemap url should be http://example.com/sitemap.xml
 
 = I found no sitemap file in my blog? =
 
@@ -37,7 +37,7 @@ You may custom the XML output with feed-sitemap-for-wpmu.php.
 
 = Do I need change my robots.txt? =
 
-Indeed, it should add your sitemap url into your robots.txt automatically, but check your robots.txt by yourself, and add "Sitemap: http://yourblogurl.com/sitemap.xml" to robots.txt if possible. 
+Indeed, it should add your sitemap url into your robots.txt automatically, but check your robots.txt by yourself, and add "Sitemap: http://example.com/sitemap.xml" to robots.txt if possible. 
 
 == Screenshots ==
 
