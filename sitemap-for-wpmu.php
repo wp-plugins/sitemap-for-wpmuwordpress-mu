@@ -47,7 +47,7 @@ function xml_feed_rewrite($wp_rewrite) {
 add_filter('generate_rewrite_rules', 'xml_feed_rewrite');
 
 function do_feed_sitemap() {
-	load_template( ABSPATH . WPINC . '/feed-sitemap.php' );
+	load_template( ABSPATH . WPINC . '/feed-sitemap-for-wpmu.php' );
 }
 
 add_action('do_feed_sitemap', 'do_feed_sitemap', 10, 1);
