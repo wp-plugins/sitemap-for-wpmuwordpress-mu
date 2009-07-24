@@ -45,7 +45,11 @@ See live blog [XML Sitemap Example](http://followta.com/blog/sitemap.xml)
 
 == Changelog ==
 
+= 1.1 =
+* You MUST update to this stable version
+
 = 1.0 =
+* I'm very sorry, it has a BIG bug, and it does NOT work
 * works only for WPMU 2.8.1, not tested for the older version
 
 == contact me ==
