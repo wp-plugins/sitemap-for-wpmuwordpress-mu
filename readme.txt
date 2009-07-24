@@ -4,7 +4,7 @@ Donate link: http://followta.com/blog/blog/category/plugin
 Tags: sitemap, wordpress mu, wpmu, google sitemap, yahoo sitemap 
 Requires at least: 2.8.1
 Tested up to: 2.8.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 == Description ==
