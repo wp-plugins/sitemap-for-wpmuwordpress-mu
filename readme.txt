@@ -4,7 +4,7 @@ Donate link: http://followta.com/blog/blog/category/plugin
 Tags: sitemap, wordpress mu, wpmu, google sitemap, yahoo sitemap 
 Requires at least: 2.8.1
 Tested up to: 2.8.1
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 
 
 == Description ==
@@ -46,6 +46,9 @@ Indeed, it should add your sitemap url into your robots.txt automatically, but c
 See live blog [XML Sitemap Example](http://followta.com/blog/sitemap.xml)
 
 == Changelog ==
+
+= 1.1.2 =
+* show only posts and pages whose blogs are public and NOT (archived/spam/mature/deleted)
 
 = 1.1.1 =
 * page url included in sitemap.xml supported

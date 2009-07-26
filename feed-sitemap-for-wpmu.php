@@ -28,7 +28,7 @@ if(file_exists($sitemapstyle)) {
 <?php 
 
 $blogs = $wpdb->get_results("SELECT blog_id, domain, path, last_updated FROM $wpdb->blogs WHERE
-	public = '1' ORDER BY last_updated DESC");
+	public = '1' AND archived = '0' AND mature = '0' AND spam = '0' AND deleted = '0' ORDER BY last_updated DESC");
 
 if ($blogs) {
 	foreach ($blogs as $blog) {

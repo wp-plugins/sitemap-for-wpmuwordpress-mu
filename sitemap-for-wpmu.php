@@ -3,7 +3,7 @@
 Plugin Name: Sitemap Generator For WordPress MU
 Plugin URI: http://followta.com/blog/blog/category/plugin
 Description: Automatically generate standard XML sitemap for WordPress MU, which supports the protocol including Google, Yahoo, Bing, MSN, Ask.com, and others. No file will be stored in disk, generating when needed like feed.Thanks Patrick Chia for his work and other people.
-Version: 1.1.1
+Version: 1.1.2
 Author: Jiang Jilin
 Author URI: http://followta.com/
 Donate link: http://followta.com/blog/blog/category/plugin
