@@ -4,13 +4,15 @@ Donate link: http://followta.com/blog/blog/category/plugin
 Tags: sitemap, wordpress mu, wpmu, google sitemap, yahoo sitemap 
 Requires at least: 2.8.1
 Tested up to: 2.8.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 
 == Description ==
 
 Automatically generate standard XML sitemap for wordpress MU blogs (works for both sub-domain and sub-directory WPMU blogs) and add sitemap into current robots.txt. 
 
+If you like this plugin, please support me by either rating it or donate to me.
+Thanks!
 
 == Installation ==
 
@@ -44,6 +46,11 @@ Indeed, it should add your sitemap url into your robots.txt automatically, but c
 See live blog [XML Sitemap Example](http://followta.com/blog/sitemap.xml)
 
 == Changelog ==
+
+= 1.1.1 =
+* page url included in sitemap.xml supported
+* fix the same url repeated in sitemap.xml
+
 
 = 1.1 =
 * You MUST update to this stable version
